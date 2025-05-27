@@ -1,0 +1,90 @@
+[
+  {
+    "text": "tôi bị đau răng",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "tôi đang rất đau răng",
+    "sentiment": "negative"
+  },
+  {
+    "text": "có phương pháp nào giảm đau tạm thời được không Tôi không đi bác sĩ",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "Tôi đang ở đâu rồi cảm ơn bạn rất nhiều",
+    "sentiment": "positive"
+  },
+  {
+    "text": "Tôi đỡ đau rồi cảm ơn bạn rất nhiều",
+    "sentiment": "positive"
+  },
+  {
+    "text": "hello",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "xin chào, tôi bị đau bụng",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Hello",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "Tôi đang bị ho",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "Tôi bị ho mới có mấy ngày thôi không phải một năm",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "ví dụ tôi bị đau bụng thì làm sao",
+    "sentiment": "negative"
+  },
+  {
+    "text": "tao đi tiểu có bọt thì có bị vấn đề gì không",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "câu nào giàu nhất nước thì mới bị",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "cứ hôm nào tao uống ít nước thì mới bị chứ không phải",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "bây giờ phải làm sao ví dụ bị như thế thì có cần phải uống thuốc hay là gì không",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "lưu lịch sử bị ấy nhé đang nói thật mà bây giờ lại chuyển khoa nội tim mạch với lại nội thần kinh là làm như thế nào",
+    "sentiment": "negative"
+  },
+  {
+    "text": "tỉnh say nhiều lắm Mình chưa biết gì",
+    "sentiment": "positive"
+  },
+  {
+    "text": "tao đi tiểu ra bọt thì có cần phải làm gì không",
+    "sentiment": "negative"
+  },
+  {
+    "text": "môn thể thao tạo ra mày để làm gì",
+    "sentiment": "negative"
+  },
+  {
+    "text": "bảo đi khám bác sĩ thì tao hỏi mày để làm gì",
+    "sentiment": "negative"
+  },
+  {
+    "text": "bán được tạo ra bằng những cái gì",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Hello",
+    "sentiment": "neutral"
+  }
+]
