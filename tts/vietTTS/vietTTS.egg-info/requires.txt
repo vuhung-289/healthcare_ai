@@ -1,0 +1,12 @@
+dm-haiku
+einops
+fire
+gdown
+jax
+jaxlib
+librosa
+optax
+tabulate
+textgrid@ git+https://github.com/kylebgorman/textgrid.git
+tqdm
+matplotlib
