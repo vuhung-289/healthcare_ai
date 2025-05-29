@@ -1,3 +1,15 @@
 __pycache__/
 *.py[cod]
 *$py.class
+tts/vietTTS/assets/infore/hifigan/g_01140000
+tts/vietTTS/assets/infore/hifigan/hk_hifi.pickle
+tts/vietTTS/assets/infore/nat/acoustic_latest_ckpt.pickle
+tts/vietTTS/assets/infore/nat/duration_latest_ckpt.pickle
+tts/vietTTS/vietTTS.egg-info/
+tts/vietTTS/vietTTS/__pycache__/
+tts/vietTTS/vietTTS/hifigan/__pycache__/
+tts/vietTTS/vietTTS/nat/__pycache__/
+Uploads/*.wav
+temp_audio/*.wav
+__pycache__/
+*.pyc
